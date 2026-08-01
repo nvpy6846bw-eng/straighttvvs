@@ -16,7 +16,7 @@ background:#050505;
 
 .gallery{
     display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(100px,1fr));
+    grid-template-columns:repeat(auto-fit,minmax(25px,1fr));
     gap:15px;
 }
 
