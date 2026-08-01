@@ -46,7 +46,7 @@ transition:.4s;
 
 width:100%;
 
-height:340px;
+height:100px;
 
 object-fit:cover;
 
