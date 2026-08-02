@@ -20,7 +20,7 @@ background:#050505;
     gap:15px;
 }
 
-}
+
 
 .item{
 
