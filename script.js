@@ -41,17 +41,11 @@ transition:.4s;
 }
 
 .item img{
-
-width:50%;
-
-height:50;
-
-object-fit:cover;
-
-display:block;
-
-transition:.5s;
-
+    width:75%;
+    max-height:180px;
+    margin:auto;
+    display:block;
+    object-fit:cover;
 }
 
 .item::before{
