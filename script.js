@@ -42,9 +42,9 @@ transition:.4s;
 
 .item img{
 
-width:100%;
+width:50%;
 
-height:100px;
+height:50;
 
 object-fit:cover;
 
@@ -64,9 +64,9 @@ top:-150%;
 
 left:-150%;
 
-width:300%;
+width:50%;
 
-height:300%;
+height:50%;
 
 background:linear-gradient(
 
